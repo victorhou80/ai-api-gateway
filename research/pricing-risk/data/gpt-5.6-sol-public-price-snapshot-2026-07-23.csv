@@ -1,0 +1,20 @@
+snapshot_date,model,c_value_cny_per_official_usd,public_group_description,public_channel_label,observed_availability,evidence_scope,source_url
+2026-07-23,GPT-5.6 Sol,0.030,GPT混合,混池,"88.9% / 3 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.040,K12满血,混池,"81.4% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.060,GPT,混池,"90.6% / 32 samples","third-party quote plus first-party pricing page",https://ai.rtoc.cc/pricing
+2026-07-23,GPT-5.6 Sol,0.070,GPT福利分组,混池,"99.7% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.070,gpt-plus,Plus,"97.5% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.080,plus2_wending,Plus,"92.4% / 180 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.085,Codex-plus,Plus,"96.9% / 3 samples","third-party public quote; upstream undisclosed",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.100,pro号池,Pro,"97.8% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.100,gpt,混池,"98.7% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.100,pro混池,Pro,"99.9% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.150,GPT-Pro,Pro,"88.9% / 3 samples","third-party public quote; upstream undisclosed",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.150,Plus经济通道,Plus,"100.0% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.200,GPT Pro,Pro,"100.0% / 32 samples","third-party quote plus first-party group multiplier",https://ai.rtoc.cc/pricing
+2026-07-23,GPT-5.6 Sol,0.280,Codex Pro,自建号池,"insufficient samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.300,GPT,混池,"97.4% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.350,Team-Plus标准通道,Team,"99.8% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.450,Pro-Team-Plus稳定通道,Team,"99.7% / 60 samples","third-party public quote; no public authenticity report",https://priceai.cc/api-transit/models
+2026-07-23,GPT-5.6 Sol,0.680,Official,官方API,"98.9% / 13 samples","first-party pricing confirmed; upstream ownership not independently audited",https://onehop.ai/zh-Hans/pricing
+2026-07-23,GPT-5.6 Sol,1.000,人民币本位基准,自有定价,n/a,"internal comparison baseline: CNY 1 equals official USD 1 price numeral",internal
