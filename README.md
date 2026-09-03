@@ -2,6 +2,8 @@
 
 AI API 中继、路由、价格、合规和商业化资料库；实现、销售材料与研究结论分层维护。
 
+项目介绍：[docs/00-introduction.md](docs/00-introduction.md)。
+
 价格与线路风险研究入口：[research/pricing-risk/](research/pricing-risk/)。该目录记录带来源和日期的价格快照、计算脚本及区域适用性分析，仅用于决策支持，不构成产品价格或可用性承诺。
 
 ## 合并说明
@@ -17,3 +19,5 @@ sales/                销售与运营材料
 templates/            可复用模板
 research/pricing-risk/ 价格与风险研究、快照和计算器
 ```
+
+完整商业方案见 [`docs/business-playbook/`](docs/business-playbook/)，销售与交付资料见 [`sales/`](sales/)。
