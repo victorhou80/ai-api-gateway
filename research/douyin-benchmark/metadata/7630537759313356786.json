@@ -1,0 +1,13 @@
+{
+  "file": "7630537759313356786.mp4",
+  "bytes": 49890465,
+  "fps": 30.0,
+  "frames": 12677,
+  "width": 1080,
+  "height": 1920,
+  "duration_s": 422.56666666666666,
+  "sampled_frames": 180,
+  "cuts_over_28_mean_diff_s": [
+    0.1
+  ]
+}

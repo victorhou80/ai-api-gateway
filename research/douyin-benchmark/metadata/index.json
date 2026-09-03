@@ -1,0 +1,69 @@
+[
+  {
+    "file": "7630537759313356786.mp4",
+    "bytes": 49890465,
+    "fps": 30.0,
+    "frames": 12677,
+    "width": 1080,
+    "height": 1920,
+    "duration_s": 422.56666666666666,
+    "sampled_frames": 180,
+    "cuts_over_28_mean_diff_s": [
+      0.1
+    ]
+  },
+  {
+    "file": "7631919957631253870.mp4",
+    "bytes": 13727283,
+    "fps": 30.0,
+    "frames": 4239,
+    "width": 1080,
+    "height": 1920,
+    "duration_s": 141.3,
+    "sampled_frames": 180,
+    "cuts_over_28_mean_diff_s": [
+      0.1
+    ]
+  },
+  {
+    "file": "7640548791624138222.mp4",
+    "bytes": 49247795,
+    "fps": 30.0,
+    "frames": 16710,
+    "width": 1080,
+    "height": 1920,
+    "duration_s": 557.0,
+    "sampled_frames": 180,
+    "cuts_over_28_mean_diff_s": [
+      0.1
+    ]
+  },
+  {
+    "file": "7678431528800997492.mp4",
+    "bytes": 7994648,
+    "fps": 30.0,
+    "frames": 3633,
+    "width": 720,
+    "height": 1280,
+    "duration_s": 121.1,
+    "sampled_frames": 180,
+    "cuts_over_28_mean_diff_s": [
+      0.1,
+      119.333
+    ]
+  },
+  {
+    "file": "7678687415268134031.mp4",
+    "bytes": 8026206,
+    "fps": 30.0,
+    "frames": 3837,
+    "width": 720,
+    "height": 1280,
+    "duration_s": 127.9,
+    "sampled_frames": 180,
+    "cuts_over_28_mean_diff_s": [
+      0.033,
+      0.1
+    ]
+  }
+]
